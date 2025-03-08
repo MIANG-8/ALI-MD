@@ -55,7 +55,7 @@ let madeMenu = `*╭══〘〘 ${config.BOT_NAME} 〙〙*
 *┃❍ ᴍᴏᴅᴇ* : *${config.MODE}*
 *┃❍ ᴘʀᴇғɪx* : *${config.PREFIX}*
 *┃❍ ʀᴀᴍ* : *34.56 ɢʙ/60.79*
-*┃❍ ᴄʀᴇᴀᴛᴏʀ* : *⿻ 𝐀ɭι̇ι̇ ⿻⃮͛*
+*┃❍ ᴄʀᴇᴀᴛᴏʀ* : *⿻ RAHEEL ⿻⃮͛*
 *┃❍ ᴀʟᴡᴀʏs ᴏɴʟɪɴᴇ* : *${config.ALWAYS_ONLINE}*
 *┃❍ ᴠᴇʀsɪᴏɴs* : *ᴠ.4.1.0*
 *╰═════════════════⊷*
@@ -83,7 +83,7 @@ let madeMenu = `*╭══〘〘 ${config.BOT_NAME} 〙〙*
 *├⬡ .ʙᴀɪsᴄᴏᴘᴇ*
 *├⬡ .ɢɪɴɪsɪsɪʟᴀ*
 *┕──────────────────❒*
-*╭────❒⁠⁠⁠⁠* *🏮 EMPIRE ALI 🏮* *❒⁠⁠⁠⁠* 
+*╭────❒⁠⁠⁠⁠* *🏮 EMPIRE RAHEEL 🏮* *❒⁠⁠⁠⁠* 
 *├⬡ .ғᴀᴍɪʟʏ*
 *├⬡ .ᴄʜᴀɴɴᴇʟ*
 *├⬡ .sᴜᴘᴘᴏʀᴛ*
@@ -247,7 +247,7 @@ let madeMenu = `*╭══〘〘 ${config.BOT_NAME} 〙〙*
 *├⬡ .ᴅᴀɪʟʏꜰᴀᴄᴛ*
 *├⬡ .ᴍɪɴᴜᴛᴏʀ*
 *┕──────────────────❒*
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟɪ*`
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHEEL*`
 
 await conn.sendMessage(from,{image:{url: config.ALIVE_IMG},caption:madeMenu,
                              contextInfo: {
