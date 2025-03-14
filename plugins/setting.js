@@ -60,7 +60,7 @@ cmd({
 │
 ╰──────────────────────────╯
 
-*🌟DEVELOPED BY ALI-MD-V1🌟*
+*🌟DEVELOPED BY ADEEL-MD-V1🌟*
 `;
 
         // Send the settings message with the updated format
