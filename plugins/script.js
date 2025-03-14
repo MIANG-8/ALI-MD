@@ -16,16 +16,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ALI*
+*|* *ADEEL*
 
 > *ALI-MD-V1 REPO:*
-*|* https://github.com/itx-alii-raza/ALI-MD
+*|* https://github.com/MIANG-8
 
 > *SUPPORT GROUP:*
 *|* https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h
 *╰──────────────●●►*
 
-> *CREATED BY ALI TECH*
+> *CREATED BY ADEEL TECH*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -35,11 +35,11 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363318387454868@newsletter',
-      newsletterName: "𝐀ɭι̇ι̇ 𝐌Ɗ 🍁",
+      newsletterName: "𝐀DEEL 🍁",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: '𝐀ɭι̇ι̇ 𝐌Ɗ 🍁',
+title: '𝐀DEEL 🍁',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/itx-alii-raza/ALI-MD" ,
@@ -86,7 +86,7 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐀𝐋𝐈-𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
+        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 ADEEL-𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
 
 > *sɪᴍᴘʟᴇ, ɪᴄʏ, ᴄᴏʟᴅ  & ʀɪᴄʜ ʟᴏᴀᴅᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs, ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
